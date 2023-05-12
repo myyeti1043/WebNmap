@@ -13,10 +13,10 @@ WebTracker is a Chrome extension that allows users to track the IP addresses and
 4. Click the LOAD UNPACKED button and select the directory containing the cloned repository.
 
 ## Usage
-* Click the 'Start' button to start tracking IPs and domain names.
-* Click the 'Stop' button to stop tracking.
+* Click the 'Start Collect' button to start tracking IPs and domain names.
+* Click the 'Stop Collect' button to stop tracking.
 * Click the 'Export IPs' button to download a .txt file of tracked IP addresses.
-* Click the 'Export Domains' button to download a .txt file of tracked domain names.
+* Click the 'Export Urls' button to download a .txt file of tracked domain names.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -39,10 +39,14 @@ WebTracker是一款Chrome扩展，允许用户跟踪他们所访问页面发出�
 4. 单击“加载未打包项”按钮并选择包含克隆存储库的目录。
 
 ## 使用方法
-* 单击“开始”按钮以开始跟踪IP地址和域名。
-* 单击“停止”按钮以停止跟踪。
-* 单击“导出IPs”按钮下载已经被追踪过得IP地址.txt文件.
-* 单击"Export Domains" 按钮下载已经被追踪过得域名txt文件.
+* 单击“Start Collect”按钮以开始跟踪IP地址和域名。
+* 单击“Stop Collect”按钮以停止跟踪。
+* 单击“Esport IPs”按钮下载已经被追踪过的IP地址.txt文件.
+* 单击"Export Urls" 按钮下载已经被追踪过的域名txt文件.
+
+![Example Image02](./docs/_static/WebTracker02.png)
+![Example Image03](./docs/_static/WebTracker03.png)
 
 ## 贡献
 欢迎提交拉取请求。对于重大更改，请先打开问题进行讨论。
+
