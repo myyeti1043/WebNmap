@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "WebTracker",
+  "name": "WebNmap",
   "version": "1.0.2",
   "permissions": ["debugger", "activeTab"],
   "action": {
