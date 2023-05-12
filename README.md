@@ -26,7 +26,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 # WebTracker
 
-WebTracker是一款Chrome扩展，允许用户跟踪他们所访问页面发出的网络请求中的IP地址和域名。它提供了一个简单的方式来开始和停止跟踪，并将收集到的数据导出为.txt文件。
+WebTracker是一款Chrome扩展，允许用户收集他们所访问页面发出的网络请求中的IP地址和域名。它提供了一个简单的方式来开始和停止跟踪，并将收集到的数据导出为.txt文件。
 
 ## 特点
 * 开始和停止IP和域名跟踪
