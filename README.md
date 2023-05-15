@@ -1,6 +1,7 @@
 # WebNmap
 
-WebTracker is a Chrome extension that allows users to track the IP addresses and domain names from network requests made by the pages they visit. It provides an easy way to start and stop tracking, and export the collected data as a .txt file.
+WebTracker is a Chrome extension， Mainly used to collect data on domain names and remote IP addresses in developer tools. 
+that allows users to track the IP addresses and domain names from network requests made by the pages they visit. It provides an easy way to start and stop tracking, and export the collected data as a .txt file.
 
 ## Features
 * Start and stop IP and domain name tracking
@@ -26,7 +27,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 # WebNmap
 
-WebNmap是一款Chrome扩展，允许用户收集他们所访问页面发出的网络请求中的IP地址和域名。它提供了一个简单的方式来开始和停止跟踪，并将收集到的数据导出为.txt文件。
+WebNmap是一款Chrome扩展，主要用于收集开发者工具中的域名和远程IP地址列的数据。
+允许用户收集他们所访问页面发出的网络请求中的IP地址和域名。它提供了一个简单的方式来开始和停止跟踪，并将收集到的数据导出为.txt文件。
+
 
 ## 特点
 * 开始和停止IP和域名跟踪
