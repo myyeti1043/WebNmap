@@ -1,6 +1,6 @@
 # WebNmap
 
-WebNmapr is a Chrome extension，Mainly used to collect data on domain names and remote IP address in developer tools (Export domain names and remote ip address from developer tools).
+WebNmap is a Chrome extension，Mainly used to collect data on domain names and remote IP address in developer tools (Export domain names and remote ip address from developer tools).
 that allows users to track the IP addresses and domain names from network requests made by the pages they visit. It provides an easy way to start and stop tracking, and export the collected data as a .txt file.
 
 ## Features
